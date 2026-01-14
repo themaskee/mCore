@@ -1,6 +1,6 @@
 # 🚀 mCore - Advanced Server Core
 
-![Version](https://img.shields.io/badge/version-4.5-blue.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-4.8-blue.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-17%2B-orange.svg?style=for-the-badge)
 ![Software](https://img.shields.io/badge/Software-Paper%20%2F%20Spigot-red.svg?style=for-the-badge)
 
